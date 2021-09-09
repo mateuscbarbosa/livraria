@@ -70,7 +70,6 @@ local.properties
 ### Java ###
 # Compiled class file
 *.class
-ConnectionFactory.java
 
 # Log file
 *.log
